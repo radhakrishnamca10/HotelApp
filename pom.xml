@@ -81,7 +81,7 @@
 							<excludes>
 								<exclude>**/*.class</exclude>
 							</excludes>
-							<filtering>true</filtering>
+							<filtering>false</filtering>
 						</resource>
 					</webResources>
 				</configuration>
